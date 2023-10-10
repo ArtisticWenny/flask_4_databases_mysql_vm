@@ -9,8 +9,6 @@
 - selected database
 - created new database GCP4b
 - created 2 new tables
-  
 ### 2. Integrate with Flask: 
-
 ### 4. Errors 
 - tried to create table, got error 1050
