@@ -12,3 +12,4 @@
 ### 2. Integrate with Flask: 
 ### 4. Errors 
 - tried to create table, got error 1050
+- Debugger errors after trying to run app.py
