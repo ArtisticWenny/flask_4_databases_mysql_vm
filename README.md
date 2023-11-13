@@ -13,3 +13,4 @@
 ### 4. Errors 
 - tried to create table, got error 1050
 - Debugger errors after trying to run app.py
+- changed the "Templates" folder to "templates"
